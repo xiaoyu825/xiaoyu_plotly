@@ -1,0 +1,3 @@
+#11 /export/home/chenyuxiang/code/HRNET/504_dlhrnet_finetune 504_dlhrnet_finetune.log 504_dlhrnet_finetune TA
+jupyter 1111 523_dlhrnet_100pic.log 523_dlhrnet_100pic TA
+jupyter 1111 602_dlhrnet_100pic_loss.log 602_dlhrnet_100pic_loss TA

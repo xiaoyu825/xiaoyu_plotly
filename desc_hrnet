@@ -1,0 +1,4 @@
+04 /export/home/chenyuxiang/code/HRNET/826_hrnet_randomaug 826_hrnet_randomaug.log hrnet_randaug VA
+19 /export/home/chenyuxiang/code/HRNET/821_randomaug 821_randomaug.log HeAP_randaug VA
+12 .logs/ 418_hrnet_base.log 418_hrnet_base VA
+#12 .logs/ 328_dl_hrnet_full.log HeAP_gridshuffle TL

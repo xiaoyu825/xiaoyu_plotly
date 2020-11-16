@@ -1,0 +1,2 @@
+20 /export/home/chenyuxiang/code/unsupervised/swav_epoch200/experiments/swav_200ep_pretrain train.log swav_4gpu TL
+17 /export/home/chenyuxiang/code/swav/swav_epoch200/experiments/swav_200ep_pretrain train_8gpu.log swav_8gpu TL

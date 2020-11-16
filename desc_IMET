@@ -1,0 +1,10 @@
+6 /export/home/chenyuxiang/code/fgvc/imet/519_b8_cutmix2 519_b8_cutmix2.log 519_b8_cutmix2 VATA
+6 /export/home/chenyuxiang/code/fgvc/imet/519_b8_cutmix2 519_b8_cutmix0.2.log 519_b8_cutmix0.2 VATA
+10 /export2/home/chenyuxiang/fgvc/imet/519_b8_cutmix2_parallel 519_b8_cutmix2_parallel.log 519_b8_cutmix2_parallel VATA
+6 /export/home/chenyuxiang/code/fgvc/imet/513_b6_448_448 513_b6_448_448.log 513_b6_448_448 VATATL
+12 /export/home/chenyuxiang/code/fgvc/imet/520_b8_cutmix2_pseudolabel 520_b8_cutmix2_pseudolabel.log 520_b8_cutmix2_pseudolabel VATA
+11 /export/home/chenyuxiang/code/fgvc/imet/519_b8_cutmix2_full 519_b8_cutmix2_full.log 519_b8_cutmix2_full VATA
+12 /export/home/chenyuxiang/code/fgvc/imet/521_b8_dcl 521_b8_dcl.log 521_b8_dcl VATA
+6 /export/home/chenyuxiang/code/fgvc/imet/521_b8_dcl_3e-6 521_b8_dcl_3e-6_tune_becloss.log 521_b8_dcl_3e-6_tune_becloss VATL
+10 /export2/home/chenyuxiang/fgvc/imet/521_b8_dcl_3e-6_DL 521_b8_dcl_3e-6_DL_tune_bceloss.log 521_b8_dcl_3e-6_DL_tune_bceloss VATL
+6 /export/home/chenyuxiang/code/fgvc/imet/521_b8_dcl_3e-6 521_b8_dcl_3e-6_tune_becloss_bycutmix.log 521_b8_dcl_3e-6_tune_becloss_bycutmix VATL

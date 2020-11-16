@@ -1,0 +1,11 @@
+#12 /export/home/chenyuxiang/code/mela/619_baseline0_efb3 619_baseline0_efb3_.log 619_baseline0_efb3 VATA
+#12 /export/home/chenyuxiang/code/mela/mela_solu_2010/ input_size_256_3e-5.log input_size_256_3e-5 VATA
+#12 /export/home/chenyuxiang/code/mela/mela_solu input_size_320_3e-5.log input_size_320_3e-5 VATA
+#12 /export/home/chenyuxiang/code/mela/mela_solu_2010_1 320_3e-5_40_sgd.log 320_3e-5_40_sgd VATA
+#12 /export/home/chenyuxiang/code/mela/mela_solu_2010_2 sgd_320_3e-4_40.log sgd_320_3e-4_40 VATA
+19 /export/home/chenyuxiang/code/mela/mela_solu_1 efb4_448_1e-5_40.log efb4_448_1e-5_40 VATA
+##12 /export/home/chenyuxiang/code/mela/mela_solu_2010_3 sgd_3e-4_80_320.log sgd_3e-4_80_320 VATA
+#19 /export/home/chenyuxiang/code/mela/mela_solu_efb4_320_1e-5_40 efb4_320_1e-5_40.log efb4_320_1e-5_40 VATA
+#20 /export/home/chenyuxiang/code/mela/mela_solu_sgd_1e-4_448_80 sgd_1e-4_448_80.log.2 sgd_1e-4_448_80 VATA
+#12 /export/home/chenyuxiang/code/mela/mela_serenet50_320 320_9e-5_10.log 320_9e-5_10 VATA
+12 /export/home/chenyuxiang/code/mela/mela_seresnet50 9e-5_224_40_se50.log 9e-5_224_40_se50 VATA

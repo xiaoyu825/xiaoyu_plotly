@@ -1,0 +1,3 @@
+20 /export/home/chenyuxiang/code/unsupervised/moco_eval/moco_base_128 moco_base_eval_128.log moco_base_eval_128 VA
+20 /export/home/chenyuxiang/code/unsupervised/moco_eval/moco moco_drop_res.log moco_drop_res VA
+20 /export/home/chenyuxiang/code/unsupervised/moco_eval/moco_drop_o_scale moco_drop_o_scale.log moco_drop_o_scale VA

@@ -1,0 +1,8 @@
+19 /export/home/chenyuxiang/code/horovod/630_res18_para 630_res18_para.log 630_res18_para VA
+20 /export/home/chenyuxiang/code/horovod/630_res18_average 630_res18_average.log 630_res18_average VA
+12 /export/home/chenyuxiang/code/horovod/630_res18_sum 630_res18_sum.log 630_res18_sum VA
+12 /export/home/chenyuxiang/code/horovod/702_adasum_scale 702_adasum_scale.log 702_adasum_scale VA
+19 /export/home/chenyuxiang/code/horovod/701_sum_8gpu_256bz 701_sum_8gpu_256bz.log 701_sum_8gpu_256bz VA
+19 /export/home/chenyuxiang/code/horovod/703_sum_8gpu_512bz 703_sum_8gpu_512bz.log 703_sum_8gpu_512bz VA
+19 /export/home/chenyuxiang/code/horovod/703_adasum_no_scale 703_adasum_no_scale.log 703_adasum_no_scale VA
+20 /export/home/chenyuxiang/code/horovod/703_average_no_scale 703_average_no_scale.log 703_average_no_scale VA
